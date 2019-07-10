@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DatabaseKaryawan</string>
+
+    <string name="nama_karyawan">Nama Karyawan</string>
+
+    <string name="id_karyawan">ID Karyawan</string>
+
+    <string name="divisi_karyawan">Divisi Karyawan</string>
+
+    <string name="gaji_karywan">Gaji Karyawan</string>
+</resources>
